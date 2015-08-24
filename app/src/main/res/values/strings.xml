@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_order_label_popular">most poular</string>
+    <string name="pref_order_label_rate">best rated</string>
+    <string name="pref_order_popular"  translatable="false">popularity.desc</string>
+    <string name="pref_order_rate" translatable="false">vote_average.desc</string>
+    <string name="pref_order_label">Order by</string>
+    <string name="pref_order_key" translatable="false">order</string>
+
+    <string name="pref_api_key_label">API KEY</string>
+    <string name="pref_api_key_key" translatable="false">api_key</string>
+    <string name="pref_api_key_default" translatable="false">replace me!</string>
+
+
+</resources>
